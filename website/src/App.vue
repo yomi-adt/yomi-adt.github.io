@@ -1,6 +1,5 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import { Button } from 'primevue';
 import Header from './components/Header.vue'
 </script>
 
